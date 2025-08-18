@@ -48,8 +48,7 @@ linkedin_username: mingyu-kim-00110337b
 # about_title: About Me
 about_profile_image: images/mgk.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name’s Mingyu Kim and I’m a student in the Department of Computer Software Engineering at Hanyang University. I am particularly interested in large language models (LLMs), natural language processing (NLP), and their applications in finance.
-
+  Hi, my name’s Mingyu Kim and I’m a student in the Department of Computer Software Engineering at Hanyang University. I am particularly interested in large language models (LLMs), natural language processing (NLP), and their applications in finance. After completing my military service, I have been actively reading and summarizing research papers in NLP. Although I currently have limited project experience, I am committed to learning with diligence and sincerity. Looking ahead, my goal is to pursue a master’s and doctoral degree to conduct in-depth research in these areas.
 content:
   - title: Education # Title for the section
     layout: list
