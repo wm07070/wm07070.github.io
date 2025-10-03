@@ -48,7 +48,7 @@ linkedin_username: mingyu-kim-00110337b
 # about_title: About Me
 about_profile_image: images/mgk.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name’s Mingyu Kim and I’m a student in the Department of Computer Software Engineering at Hanyang University. I am particularly interested in large language models (LLMs), natural language processing (NLP), and their applications in finance. After completing my military service, I have been actively reading and summarizing research papers in NLP. Although I currently have limited project experience, I am committed to learning with diligence and sincerity. Looking ahead, my goal is to pursue a master’s and doctoral degree to conduct in-depth research in these areas.
+  Hi, my name’s Mingyu Kim and I’m currently an undergraduate student in the Department of Computer Software Engineering at Hanyang University. I am working as an undergraduate research intern at the HYU NLP Lab, where I am actively participating in research projects. My current research focuses on multi-modal retrieval-augmented generation (RAG). I am particularly interested in large language models (LLMs), natural language processing (NLP), and their applications in finance. I am committed to learning with diligence and sincerity, and my long-term goal is to pursue a master’s and doctoral degree to conduct in-depth research in these areas.
 content:
   - title: Education # Title for the section
     layout: list
@@ -57,14 +57,14 @@ content:
         title: Hanyang University
         caption: 2021 - ing..
         sub_title: Computer Software Engineering
-
         description: |
           GPA : 3.98 / 4.50 ( 95 / 130학점).
           3-1학기까지 재학하고, 현재 휴학중.
-
       - layout: left
-        title: Sangmoon High school
-        caption: 2017 - 2019
+        title: HYU NLP Lab
+        caption: 2025.09 ~ Present
+        description: |
+          undergraduate research intern
   - title: Certification
     layout: list
     content:
