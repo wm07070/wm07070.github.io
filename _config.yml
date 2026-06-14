@@ -48,7 +48,7 @@ linkedin_username: mingyu-kim-00110337b
 # about_title: About Me
 about_profile_image: images/mgk.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name’s Mingyu Kim and I’m currently an undergraduate student in the Department of Computer Software Engineering at Hanyang University. I am working as an undergraduate research intern at the HYU NLP Lab, where I am actively participating in research projects. My current research focuses on multi-modal retrieval-augmented generation (RAG). I am particularly interested in large language models (LLMs), natural language processing (NLP), and their applications in finance. I am committed to learning with diligence and sincerity, and my long-term goal is to pursue a master’s and doctoral degree to conduct in-depth research in these areas.
+  Hi, my name’s Mingyu Kim and I’m currently an undergraduate student in the Department of Computer Software Engineering at Hanyang University. I am working as an undergraduate research intern at the HYU NLP Lab, where I am actively participating in research projects. My current research focuses on multi-modal and retrieval, with a particular emphasis on Visual Document Retrieval (VDR). I am also broadly interested in large language models (LLMs), natural language processing (NLP), and their applications in finance. I am committed to learning with diligence and sincerity, and my long-term goal is to pursue a master’s and doctoral degree to conduct in-depth research in these areas.
 content:
   - title: Education # Title for the section
     layout: list
@@ -59,12 +59,21 @@ content:
         sub_title: Computer Software Engineering
         description: |
           GPA : 3.98 / 4.50 ( 95 / 130학점).
-          3-1학기까지 재학하고, 현재 휴학중.
       - layout: left
         title: HYU NLP Lab
         caption: 2025.09 ~ Present
         description: |
           undergraduate research intern
+  - title: Publications
+    layout: list
+    content:
+      - layout: top-middle
+        title: 시각 언어 모델 생성 설명문을 활용한 하이브리드 문서 검색
+        caption: KCC 2026
+        sub_title: 한국정보과학회 한국소프트웨어종합학술대회 (KCC 2026)
+        quote: >
+          Oral 발표 · KCC 우수논문상 수상
+
   - title: Certification
     layout: list
     content:
