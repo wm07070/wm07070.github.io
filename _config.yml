@@ -69,10 +69,15 @@ content:
     content:
       - layout: top-middle
         title: 시각 언어 모델 생성 설명문을 활용한 하이브리드 문서 검색
+        link: /assets/papers/KCC2026_hybrid_document_retrieval.pdf
         caption: KCC 2026
         sub_title: 한국정보과학회 한국소프트웨어종합학술대회 (KCC 2026)
         quote: >
           Oral 발표 · KCC 우수논문상 수상
+        additional_links:
+          - title: Paper (PDF)
+            icon: fas fa-file-pdf
+            url: /assets/papers/KCC2026_hybrid_document_retrieval.pdf
 
   - title: Certification
     layout: list
